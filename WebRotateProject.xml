@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/img_000.jpg" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="#FFFFFF" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="#ffffff" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="false" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="false" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" dragAcceleration="1" centerZoom="false" maxZoom="100" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" spinOnPageScroll="false" pageScrollFollow="false" pageScrollDelay="300" pageScrollPeriod="3" />
+  </settings>
+  <hotspots />
+  <images rows="1">
+<image src="images\img_000.jpg"/>
+<image src="images\img_001.jpg"/>
+<image src="images\img_002.jpg"/>
+<image src="images\img_003.jpg"/>
+<image src="images\img_004.jpg"/>
+<image src="images\img_005.jpg"/>
+<image src="images\img_006.jpg"/>
+<image src="images\img_007.jpg"/>
+<image src="images\img_008.jpg"/>
+<image src="images\img_009.jpg"/>
+<image src="images\img_010.jpg"/>
+<image src="images\img_011.jpg"/>
+<image src="images\img_012.jpg"/>
+<image src="images\img_013.jpg"/>
+<image src="images\img_014.jpg"/>
+<image src="images\img_015.jpg"/>
+<image src="images\img_016.jpg"/>
+<image src="images\img_017.jpg"/>
+<image src="images\img_018.jpg"/>
+<image src="images\img_019.jpg"/>
+<image src="images\img_020.jpg"/>
+<image src="images\img_021.jpg"/>
+<image src="images\img_022.jpg"/>
+<image src="images\img_023.jpg"/>
+<image src="images\img_024.jpg"/>
+<image src="images\img_025.jpg"/>
+<image src="images\img_026.jpg"/>
+<image src="images\img_027.jpg"/>
+<image src="images\img_028.jpg"/>
+<image src="images\img_029.jpg"/>
+<image src="images\img_030.jpg"/>
+<image src="images\img_031.jpg"/>
+</images>
+</config>
